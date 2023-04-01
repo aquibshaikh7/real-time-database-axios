@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  width: 90%;
+  max-width: 40rem;
+  background-color: crimson;
+  margin: 1rem auto;
+  text-align: center;
+  padding: 2rem;
+}
+
+.header h1 {
+  color: white;
+}

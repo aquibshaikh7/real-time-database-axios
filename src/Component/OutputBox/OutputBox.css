@@ -1,0 +1,21 @@
+.output {
+  border: 1px solid black;
+  padding: 0.6rem;
+  text-align: center;
+  margin-bottom: 0.7rem;
+}
+
+.name {
+  font-weight: bold;
+  font-size: large;
+}
+
+.action button {
+  padding: 0.3rem;
+  margin-top: 0.3rem;
+}
+
+.action button:hover {
+  background-color: red;
+  font-weight: bold;
+}

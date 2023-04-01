@@ -1,0 +1,39 @@
+.inputBox {
+  width: 90%;
+  max-width: 30rem;
+  margin: 1rem auto;
+  text-align: center;
+}
+
+.inputBox label {
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.add {
+  margin-top: 10px;
+}
+
+.add input {
+  margin-right: 5px;
+  padding: 5px 30px;
+  font-size: large;
+  font-weight: bold;
+}
+
+.add button {
+  margin: 20px auto;
+  width: 60px;
+  height: 25px;
+  background-color: #dc143c;
+  color: #fff;
+  font-size: 14px;
+  border: none;
+  border-radius: 3px;
+  padding: 0.3rem;
+  font-weight: bold;
+}
+
+.add button:hover {
+  background-color: crimson;
+}
